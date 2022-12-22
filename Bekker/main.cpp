@@ -31,6 +31,8 @@ int main()
                 case 6:
                 break;
 }
+        } else {
+            cout << "Wrong Login or Password!" << endl;
         }
     }
     return(0);
